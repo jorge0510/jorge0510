@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge Garcia</h1>
-<h3 align="center">Engineer, builder, and founder driven to make tech accessible—clean code, clever systems, and software that actually serves people</h3>
+<h3 align="center">Full-stack engineer with startup grit, research depth, and a track record of building scalable, user-focused software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorge0510&label=Profile%20views&color=0e75b6&style=flat" alt="jorge0510" /> </p>
 
